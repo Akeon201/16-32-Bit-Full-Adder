@@ -1,4 +1,4 @@
-# 8-16-Bit-Full-Adder
+# 8-And-16-Bit-Full-Adder
 
 Must have Java installed.
 
