@@ -1,5 +1,4 @@
 # 16-32-Bit-Full-Adder
-School Project
 
 Must have Java installed.
 
