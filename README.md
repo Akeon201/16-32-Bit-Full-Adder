@@ -6,7 +6,7 @@ It is important to note that a full ripple adder is the simplest and most basic 
 
 # Instructions
 
-1. Make sure you have java installed in your system.
+1. Make sure you have **java** installed in your system.
 2. Open the command line and navigate to the directory where the file is saved.
-3. Run the script by typing 'java Adder8' or 'java Adder16' in the command line
-4. You may change the numbers this program adds by modifying the parameters on lines 7, 28, 50, and 71.
+3. Run the script by typing **'java Adder8'** or **'java Adder16'** in the command line
+4. You may change the numbers this program adds by **modifying** the parameters on **lines 7, 28, 50, and 71**.
